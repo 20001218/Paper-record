@@ -1,1 +1,1 @@
-# szyPaper-record
+# Paper-record
