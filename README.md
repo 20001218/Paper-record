@@ -8,5 +8,5 @@
 |   GhostNet   | [GhostNet: More Features from Cheap Operations](https://ieeexplore.ieee.org/document/9157333) | CVPR  | 2020 | [Python](https://github.com/huawei-noah/ghostnet) | 2024.05.15 |
 |     CA       | [Coordinate Attention for Efficient Mobile Network Design](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9577301) | CVPR  | 2021 | [Python](https://github.com/houqb/CoordAttention) | 2024.05.27 |
 |      EMA     | [Efficient Multi-Scale Attention Module with Cross-Spatial Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10096516)  | ICASSP   | 2023   | [Python](https://github.com/YOLOonMe/EMA-attention-module)   | 2024.06.04   |
-|   FasterNet  | [Run, Don’t Walk: Chasing Higher FLOPS for Faster Neural Networks](https://ieeexplore.ieee.org/document/10203371)  | CVPR   | 2023   | [Python](https://github.com/JierunChen/FasterNet)   | 2024.06.15   |
 |    CWASC     | [Adaptive Sparse Convolutional Networks with Global Context Enhancement for Faster Object Detection on Drone Images](https://ieeexplore.ieee.org/document/10205247) | CVPR |  2023  | [Python](https://github.com/Cuogeihong/CEASC)   | 2024.06.24  |
+|   FasterNet  | [Run, Don’t Walk: Chasing Higher FLOPS for Faster Neural Networks](https://ieeexplore.ieee.org/document/10203371)  | CVPR   | 2023   | [Python](https://github.com/JierunChen/FasterNet)   | 2024.07.10   |
