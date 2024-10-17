@@ -10,3 +10,4 @@
 |      EMA     | [Efficient Multi-Scale Attention Module with Cross-Spatial Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10096516)  | ICASSP   | 2023   | [Python](https://github.com/YOLOonMe/EMA-attention-module)   | 2024.06.04   |
 |    CWASC     | [Adaptive Sparse Convolutional Networks with Global Context Enhancement for Faster Object Detection on Drone Images](https://ieeexplore.ieee.org/document/10205247) | CVPR |  2023  | [Python](https://github.com/Cuogeihong/CEASC)   | 2024.06.24  |
 |   FasterNet  | [Run, Don’t Walk: Chasing Higher FLOPS for Faster Neural Networks](https://ieeexplore.ieee.org/document/10203371)  | CVPR   | 2023   | [Python](https://github.com/JierunChen/FasterNet)   | 2024.07.10   |
+|   MFFSODNet  | [MFFSODNet: Multiscale Feature Fusion Small Object Detection Network for UAV Aerial Images](https://ieeexplore.ieee.org/abstract/document/10480392)  | TIM   | 2024   |    | 2024.9.30   |
