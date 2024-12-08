@@ -11,3 +11,4 @@
 |    CWASC     | [Adaptive Sparse Convolutional Networks with Global Context Enhancement for Faster Object Detection on Drone Images](https://ieeexplore.ieee.org/document/10205247) | CVPR |  2023  | [Python](https://github.com/Cuogeihong/CEASC)   | 2024.06.24  |
 |   FasterNet  | [Run, Don’t Walk: Chasing Higher FLOPS for Faster Neural Networks](https://ieeexplore.ieee.org/document/10203371)  | CVPR   | 2023   | [Python](https://github.com/JierunChen/FasterNet)   | 2024.07.10   |
 |   MFFSODNet  | [MFFSODNet: Multiscale Feature Fusion Small Object Detection Network for UAV Aerial Images](https://ieeexplore.ieee.org/abstract/document/10480392)  | TIM   | 2024   |    | 2024.9.30   |
+|   ARF-YOLOv8 | [ARF-YOLOv8: a novel real-time object detection model for UAV-captured images detection](https://link.springer.com/article/10.1007/s11554-024-01483-z)  | JRTIP   | 2024   | [Python]   | 2024.12.07   |
